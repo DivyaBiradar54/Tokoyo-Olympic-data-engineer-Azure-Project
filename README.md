@@ -2,6 +2,8 @@
 # Azure Data Pipeline Project
 ## Overview
 This project showcases a complete data pipeline built on Azure, covering data ingestion, transformation, storage, and analytics. It efficiently gathers data from different sources, processes it, and makes it available for business intelligence and visualization using Power BI, Looker Studio, or Tableau.
+![image](https://github.com/user-attachments/assets/9f358d18-da50-4862-9190-065b5219c987)
+
 
 # Azure Architecture
 ## 1. Data Sources
